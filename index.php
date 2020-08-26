@@ -3,7 +3,7 @@
 
 //get_header();?>
 
-<!-- I Think this page is the default page for wordpress webpages. Pages like: about, mission, location. So for now, remove author, date, comments and tag -->
+<!-- default page ' must have page-->
 
 
 <!--Start of Main Content section -->
